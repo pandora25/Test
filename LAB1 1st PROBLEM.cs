@@ -85,7 +85,8 @@ namespace ConsoleApp2
             {
                 Console.WriteLine("You did not enter integers");
             }
-
+            
+            Main(new string[0]);
             Console.ReadLine();
         }
     }
