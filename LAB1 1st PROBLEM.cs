@@ -73,7 +73,7 @@ namespace ConsoleApp2
                     }
                     else
                     {
-                        Console.Write("Kuss Ahmar");
+                        Console.Write("Nop");
                     }
                 }
                 else
